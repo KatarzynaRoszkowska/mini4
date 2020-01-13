@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">geoKR</string>
+    <string name="remove_location_alerts">Remove Location Alerts</string>
+    <string name="remove">remove</string>
+</resources>
